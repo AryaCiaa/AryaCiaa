@@ -36,7 +36,7 @@ No blog posts yet, but I'm looking forward to sharing my thoughts and experience
 
 ## Connect with Me
 
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryaadityabp)
 
 ## My Talks
 

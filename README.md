@@ -1,47 +1,62 @@
-<h2 align="left">Hi 👋! My name is Arya Aditya Britama Putra and I'm a student, from Brawijaya University</h2>
+## Hi there! 👋
 
-###
+I'm **Arya Aditya Britama Putra**, a passionate developer with a knack for creating innovative solutions. Always eager to learn and share knowledge, I strive to make a positive impact through technology.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaCiaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## About Me
 
-###
+I'm currently exploring the world of software development and constantly honing my skills. Though I'm just starting out, my enthusiasm for coding drives me to tackle new challenges. I am based in Indonesia, and I'm excited to connect with like-minded individuals in the tech community.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Skills & Technologies
 
-###
+html,css,django,react,nodejs,git,github,docker,flask,aws
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## Top Projects
 
-###
+Here are some of my latest projects:
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" (https://instagram.com/aryaadityabp)  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- [AryaCiaa](https://github.com/AryaCiaa/AryaCiaa)
+  - A personal project showcasing my development skills.
+  - ⭐ 0 Stars | 🍴 0 Forks | 🐛 0 Issues
 
-###
+## GitHub Stats
 
-<br clear="both">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaCiaa&show_icons=true&theme=radical)
 
-###
+- **Public Repositories:** 1
+- **Followers:** 1
+- **Following:** 1
+
+## Recent Activity
+
+I am actively working on my projects and contributing to my repository. Stay tuned for updates as I continue to learn and grow in the development community!
+
+## Latest Blog Posts
+
+No blog posts yet, but I'm looking forward to sharing my thoughts and experiences in the tech world!
+
+## Connect with Me
+
+{}
+
+## My Talks
+
+- [Talk Title](link-to-talk) - Brief description of the talk
+
+## ASCII Art
+
+```
+     _                      ____ _             
+    / \   _ __ _   _  __ _ / ___(_) __ _  __ _ 
+   / _ \ | '__| | | |/ _` | |   | |/ _` |/ _` |
+  / ___ \| |  | |_| | (_| | |___| | (_| | (_| |
+ /_/   \_\_|   \__, |\__,_|\____|_|\__,_|\__,_|
+               |___/                           
+```
+
+## Certifications
+
+- [Certification Name](link-to-certificate) - Issuing organization, Year
+
+## Publications
+
+- [Publication Title](link-to-publication) - Journal/Conference, Year
